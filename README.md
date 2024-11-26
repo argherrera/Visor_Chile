@@ -42,3 +42,5 @@ El desarrollo del visor web siguió estos pasos:
 Para ejecutar este visor web, asegúrate de tener un navegador moderno que soporte tecnología web interactiva (HTML5, JavaScript y CSS3).
 
 
+###3. Sitio Web
+https://argherrera.github.io/visor_chile/
