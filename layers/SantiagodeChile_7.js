@@ -1,0 +1,1 @@
+var json_SantiagodeChile_7 = {"type":"FeatureCollection","name":"SantiagodeChile_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nombre":"Ciudad de Santiago"},"geometry":{"type":"Point","coordinates":[-70.659552225289971,-33.45020379363784]}}]}
